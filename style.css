@@ -1,13 +1,7 @@
 body
 {
-    background-size: cover;
-    background-position: center;
-}
-
-canvas
-{
-    box-shadow: 10px 10px 10px grey;
-    border-radius: 10px;
+background-position: center;
+background-size: cover;
 }
 
 .heading
@@ -22,3 +16,8 @@ margin: 0px;
 font-size: 18px;
 }
 
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+}
